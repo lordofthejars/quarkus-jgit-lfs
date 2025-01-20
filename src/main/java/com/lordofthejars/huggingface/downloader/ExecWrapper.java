@@ -1,4 +1,4 @@
-package org.acme;
+package com.lordofthejars.huggingface.downloader;
 
 import java.io.IOException;
 import java.nio.file.Path;

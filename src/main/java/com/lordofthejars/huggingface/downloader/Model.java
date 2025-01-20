@@ -1,4 +1,4 @@
-package org.acme;
+package com.lordofthejars.huggingface.downloader;
 
 public record Model(String org, String name, String branch) {
 

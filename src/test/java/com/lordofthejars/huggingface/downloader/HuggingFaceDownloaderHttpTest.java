@@ -1,4 +1,4 @@
-package org.acme;
+package com.lordofthejars.huggingface.downloader;
 
 import io.quarkus.test.junit.QuarkusTest;
 import jakarta.inject.Inject;

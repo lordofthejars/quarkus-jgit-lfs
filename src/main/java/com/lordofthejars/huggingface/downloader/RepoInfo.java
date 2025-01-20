@@ -1,4 +1,4 @@
-package org.acme;
+package com.lordofthejars.huggingface.downloader;
 
 import java.util.List;
 
